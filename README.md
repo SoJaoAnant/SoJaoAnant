@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding_n_programming, making_lame_jokes, gaming and chilling
 - 🌱 I’m currently learning c++, machine and deep learning, AI tools for better productivity, blender, game_development and how to not make lame jokes
 - 📫 How to reach me Linkedin-> anant kumar sinha, Itch.IO -> SoJaoAnant, Instagram-> @SoJaoAnant, Snap-> @anant_huh, 
-- 🐱‍🐉 Lame Joke time!! If my girlfriend was a Dinosaur, then she'd be a... Mine-o-saur (told you I'm lame)
 
 <!---
 SoJaoAnant/SoJaoAnant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
