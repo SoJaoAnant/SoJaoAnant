@@ -31,5 +31,5 @@ basically I like teaching machines to think, paint, and occasionally hallucinate
 ---
 
 <p align="center">
-  <i>"Art is chaos taking space 🎨"</i>
+  <i>"Good Morning, Good Evening, Good Afternoon and Good Night! ♥"</i>
 </p>
